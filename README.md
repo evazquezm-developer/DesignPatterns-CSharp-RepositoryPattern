@@ -8,6 +8,6 @@ Ejemplo del patron Repository.
 
 Creado en .Net core 6.
 
-Ejecutar:
+Para ejecutar:
 
 $ dotnet run
